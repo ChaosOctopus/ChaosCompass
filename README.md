@@ -10,7 +10,7 @@
 
   
 补一张指南针刻度动图  
-![Alt text](http://m.qpic.cn/psb?/V11N8UKD02Mf0g/cOSz6M52F9O9lwknSkxjebcFiw.XIW5OrNU61x2W14A!/b/dAEBAAAAAAAA&bo=5AFjAgAAAAAChyc!&rf=viewer_4)  
+![Alt text](https://upload-images.jianshu.io/upload_images/5102937-575d4ef81907067e.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/484)  
 
 
 
