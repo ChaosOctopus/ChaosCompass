@@ -21,6 +21,7 @@ import java.util.Calendar;
 
 /**
  * Created by yc.Zhao on 2017/12/26 0026.
+ * 时钟View
  */
 
 public class OclockView extends View {
