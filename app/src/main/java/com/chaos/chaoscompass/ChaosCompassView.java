@@ -21,7 +21,7 @@ import android.view.View;
 
 /**
  * Created by yc.Zhao on 2017/12/27 0027.
- * 指南针View
+ * 指南针View,new
  */
 
 public class ChaosCompassView extends View{
